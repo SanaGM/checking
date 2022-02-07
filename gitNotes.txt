@@ -1,0 +1,51 @@
+two ways to use : Github Desktop
+by using commands
+
+for which GitBash is required
+more like command Line interface
+
+System cmd dont recognise github commands
+git init ---->initialise empty local repository
+
+git add .   ---->everything will be selected and add is for commiting file
+git commit -m "initial comit"
+
+
+to link these files
+git remote add origin "http.."
+
+
+to push code
+git push origin branchName 
+Master is our default branch
+git push origin master
+  
+local and remote accounts must be same.
+
+git clone
+    git clone link (link of that repository)
+
+we have to manually install node modules folder manually
+npm install
+
+
+to give access
+settings->manage access->add user name
+
+
+
+git branch sana----> to create branches
+
+git checkout sana---->to switch between branches
+
+git merge name  --> to locally merge branches
+
+git pull origin--->to pull changes
+
+
+git checkout -b name --> to checkout and create branches 
+
+
+git fetch -->to pull the remotely git branches in your local system
+git checkout--->to move to that branch 
+git pull branch--->
